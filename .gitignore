@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Runtime generated images (pipeline outputs)
+images/*.jpg
+images/*.png
+
+# OS files
+.DS_Store
+Thumbs.db
