@@ -246,8 +246,8 @@ Brain Tumor Detect/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/lokeshkota/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/lokeshkota/brain-tumor-segmentation.git
+cd brain-tumor-segmentation
 ```
 
 ### 2. Create a Virtual Environment
