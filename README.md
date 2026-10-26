@@ -17,7 +17,6 @@ A complete image-processing pipeline that combines **Fuzzy C-Means (FCM) cluster
 
 The method outperforms traditional threshold-based segmentation and provides robust tumour boundaries even in noisy scans, with an **IoU of 0.927** — significantly above baseline Otsu thresholding (~8% improvement in overlap metrics).
 
-> Submitted as a B.Tech Major Project — Department of Computer Science and Engineering
 
 ---
 
@@ -26,7 +25,6 @@ The method outperforms traditional threshold-based segmentation and provides rob
 **Early Identification of Brain Tumors from MRI Images using Fuzzy C-Means Clustering**  
 Karthik Veeravalli, Lokesh Kota, Ankush Kappe, Rahul Kamishetty  
 *AIP Conference Proceedings*  
-> *(Add DOI / URL here once available)*
 
 ---
 
